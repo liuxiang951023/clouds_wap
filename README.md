@@ -1,5 +1,7 @@
 # clouds_wap
 
+一个h5移动商城项目框架，包含自定义主题、tabbar点击音效...
+
 ## Project setup
 ```
 npm install
